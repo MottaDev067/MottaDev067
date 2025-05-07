@@ -85,7 +85,10 @@ Me chamo Guilherme Motta, tenho 18 anos sou natural de campo grande - Mato gross
 <br/>
 
 ### 📊 Estatísticas
-
+ estatisticas puxadas da conta do github principal. 
+ <br/>
+ <br/>
+ 
 <p>
   <img 
     align="left" 
